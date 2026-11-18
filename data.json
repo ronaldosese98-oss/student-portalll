@@ -1,0 +1,61 @@
+
+{
+    "student": {
+        "name": "Juan Dela Cruz",
+        "course": "BSIS - Bachelor of Science in Information Systems",
+        "id": "2026-001",
+        "year": "1st Year",
+        "email": "juan@student.com"
+    },
+
+    "announcements": [
+        {
+            "title": "Welcome Students!",
+            "description": "Welcome to the new academic year. Have a great semester!",
+            "date": "November 18, 2026"
+        },
+        {
+            "title": "Enrollment Reminder",
+            "description": "Please check your registration and subject schedules.",
+            "date": "November 20, 2026"
+        },
+        {
+            "title": "Upcoming Activities",
+            "description": "Prepare for the upcoming school activities and events.",
+            "date": "November 25, 2026"
+        }
+    ],
+
+    "subjects": [
+        {
+            "name": "Introduction to Computing",
+            "code": "IT101",
+            "units": 3
+        },
+        {
+            "name": "Web Development",
+            "code": "IT102",
+            "units": 3
+        },
+        {
+            "name": "Computer Programming",
+            "code": "IT103",
+            "units": 3
+        },
+        {
+            "name": "Mathematics",
+            "code": "MATH101",
+            "units": 3
+        },
+        {
+            "name": "Understanding the Self",
+            "code": "GE101",
+            "units": 3
+        },
+        {
+            "name": "Physical Education",
+            "code": "PE101",
+            "units": 2
+        }
+    ]
+}
